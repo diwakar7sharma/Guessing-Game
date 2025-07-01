@@ -6,7 +6,7 @@ This is a simple number-guessing game built using **React Native**. The user has
 
 ## 📱 Screenshot
 
-![App Preview](./assets/GuessingGame.png)
+<img src="./assets/GuessingGame.png" alt="App Preview" width="300"/>
 
 ---
 
